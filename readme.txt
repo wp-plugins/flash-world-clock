@@ -10,10 +10,10 @@ Stable tag: trunk
 
 World clock showing the local time at six major cities round the world. The plugin provides a choice of analog and digital clocks, colors and sizes.
 
-    * Select analog or digital clocks
-    * Select from three different group of world capitals
-    * Select horizontal or vertical clock format
-    * Select text, border and background color
+* Select analog or digital clocks
+* Select from three different group of world capitals
+* Select horizontal or vertical clock format
+* Select text, border and background color
 
 == Installation ==
 
