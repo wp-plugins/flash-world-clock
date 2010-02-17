@@ -6,9 +6,9 @@ Tested up to: 2.9.1
 Requires at least: 1.5
 Stable tag: trunk
 
-World clock showing the local time at six major cities round the world. The plugin provides a choice of analog and digital clocks, colors and sizes.
-
 == Description ==
+
+World clock showing the local time at six major cities round the world. The plugin provides a choice of analog and digital clocks, colors and sizes.
 
     * Select analog or digital clocks
     * Select from three different group of world capitals
