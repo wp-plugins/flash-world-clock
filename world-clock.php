@@ -235,7 +235,7 @@ function world_clock_init()
 	$widget_call_string .= 'widget_number='.$widget_number;
 
 	$transparent_string = "&hbg=0";
-	if($transparentflag == 1){
+	if($transparent_flag == 1){
      	    $transparent_string = "&hbg=1";
      	    $background_color=""; 
  	}
