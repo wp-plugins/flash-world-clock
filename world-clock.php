@@ -231,9 +231,6 @@ function world_clock_init()
 	// capital group 
       	$widget_number += $capital_group_flag;
 
-
-##echo '<!-Local Time Clock widget - HTML code - localtimes.info --><div align="center" style="margin:15px 0px 0px 0px"><noscript><div align="center" style="width:140px;border:1px solid #ccc;background:#fff ;color: #fff ;font-weight:bold"><a style="padding:2px 1px;margin:2px 1px;font-size:13px;line-height:16px;font-family:arial;text-decoration:none;color:#000 ;" href="http://localtimes.info/getwidget/world/">World Clock </a></div></noscript><script type="text/javascript" src="http://localtimes.info/world_clock.php?widget_number=11000&cp3_Hex=#000080&cp2_Hex=#FFFFFF&cp1_Hex=#000080"></script></div><!-end of code-->';
-
 	$widget_call_string = 'http://localtimes.info/wp_world_clock.php?';
 	$widget_call_string .= 'widget_number='.$widget_number;
 
@@ -259,7 +256,7 @@ function world_clock_init()
 	//
 	//
 	
-	echo'<!-World Clock widget - HTML code - localtimes.info --><div align="center" style="margin:15px 0px 0px 0px">';
+	echo'<!-World Clock widget - HTML code - localtimes.info --><div align="center" style="margin:15px 0px 0px 0px;background:'.$background_color.' ;color:'.$text_color.'">' ;
 
 	echo $noscript_start . '<div align="center" style="width:140px;border:1px solid #ccc;background:'.$background_color.' ;color:'.$text_color.' ;font-weight:bold">';
 	echo '<a style="padding:2px 1px;margin:2px 1px;font-size:13px;line-height:16px;font-family:arial;text-decoration:none;color:'.$text_color. ' ;" href="'.$target_url.'">';
