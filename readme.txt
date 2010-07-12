@@ -36,6 +36,10 @@ World clock showing the local time at six major cities round the world. The plug
 * Released 08/02/2010 
 * First release  includes two most popular analog and digital clocks 
 
+= 1.1 =
+* Released 12/07/2010 
+* Error correction
+
 
 
 == Frequently Asked Questions ==

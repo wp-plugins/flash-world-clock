@@ -246,7 +246,7 @@ function world_clock_init()
 
 
 	if($titleflag != 1){
-	      $noscript_start = "<noscript";
+	      $noscript_start = "<noscript>";
 	      $noscript_end = "</noscript>";
 	}
 
@@ -256,7 +256,7 @@ function world_clock_init()
 	//
 	//
 	
-	echo'<!-World Clock widget - HTML code - localtimes.info --><div align="center" style="margin:15px 0px 0px 0px;background:'.$background_color.' ;color:'.$text_color.'">' ;
+	echo'<!--World Clock widget - HTML code - localtimes.info --><div align="center" style="margin:15px 0px 0px 0px;background:'.$background_color.' ;color:'.$text_color.'">' ;
 
 	echo $noscript_start . '<div align="center" style="width:140px;border:1px solid #ccc;background:'.$background_color.' ;color:'.$text_color.' ;font-weight:bold">';
 	echo '<a style="padding:2px 1px;margin:2px 1px;font-size:13px;line-height:16px;font-family:arial;text-decoration:none;color:'.$text_color. ' ;" href="'.$target_url.'">';
