@@ -4,16 +4,16 @@ Donate link: http://www.localtimes.info/
 Tags: world clock, world flash clock, world capital timezones, world time
 Tested up to: 2.9.1
 Requires at least: 1.5
-Stable tag: trunk
-
-World clock showing the local time at six major cities round the world. The plugin provides a choice of analog and digital clocks, colors and sizes.
+Stable tag: 1.0
 
 == Description ==
 
-    * Select analog or digital clocks
-    * Select from three different group of world capitals
-    * Select horizontal or vertical clock format
-    * Select text, border and background color
+World clock showing the local time at six major cities round the world. The plugin provides a choice of analog and digital clocks, colors and sizes.
+
+* Select analog or digital clocks
+* Select from three different group of world capitals
+* Select horizontal or vertical clock format
+* Select text, border and background color
 
 == Installation ==
 
@@ -35,6 +35,10 @@ World clock showing the local time at six major cities round the world. The plug
 = 1.0 =
 * Released 08/02/2010 
 * First release  includes two most popular analog and digital clocks 
+
+= 1.1 =
+* Released 12/07/2010 
+* Error correction
 
 
 
