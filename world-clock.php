@@ -2,7 +2,7 @@
 /*
 Plugin Name: Flash World Clock 
 Description: World clock showing the local time at six major cities round the world. The plugin provides a choice of analog and digital clocks, colors and sizes.
-Author: localtimes.info
+Author: enclick
 Version: 1.0
 Author URI: http://localtimes.info
 Plugin URI: http://localtimes.info/wordpress-world-clock-plugin/
