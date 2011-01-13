@@ -1,5 +1,5 @@
 === Flash-World-Clock ===
-Contributors: localtimes.info
+Contributors: enclick
 Donate link: http://www.localtimes.info/
 Tags: world clock, world flash clock, world capital timezones, world time
 Tested up to: 3.0.1
