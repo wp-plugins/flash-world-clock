@@ -10,18 +10,20 @@ Stable tag: 1.0
 
 World clock showing the local time at six major cities round the world. The plugin provides a choice of analog and digital clocks, colors and sizes.
 
-* Select analog or digital clocks
-* Select from three different group of world capitals
-* Select horizontal or vertical clock format
-* Select text, border and background color
+* Analog or digital clocks
+* Three different group of world capitals
+* Horizontal or vertical clock format
+* Color selectoin for clock's text, border and background 
 
 == Installation ==
 
 1. Download the zip file and extract the contents,
 2. Upload the folder `world-clock` to your WP plugin folder `/wp-content/plugins/` directory,
-3. Go to Plugins > Installed, and activate the plugin,
+3. Go to Plugins > Plugins, and activate the plugin,
 4. Go to Appearance > Widgets, and drag the widget to a sidebar,
-5. Go to the "World Clock Widget" selection panel, select clock types, clock orientation, world capital sets, clock colors and sizes from the widgets admin panel
+5. On the widget selection panel, select clock type, clock orientation, world capital sets, clock colors and size
+6. Email problems to widgets at localtimes.info
+7. Please rate our plugin!
 
 == Screenshots ==
 
@@ -60,5 +62,8 @@ Yes, the clock automatically changes for all Daylight Saving Time changes in the
 Daylight saving time is the convention of advancing clocks so that afternoons have more daylight and mornings have less. [Click here for more information](http://en.wikipedia.org/wiki/Daylight_saving_time "Daylight Saving Time")
 
 = Is there support  ? = 
-Further support is available at [localtimes.info/support](http://localtimes.info/wordpress-world-clock-plugin/) 
+Further support is available at [localtimes.info/support](http://localtimes.info/wordpress-clock-plugin/), or [localtimes.info/conditions](http://localtimes.info/get-clock-widget/analog/#conditions) 
+
+= Contact  = 
+Email us at widgets at localtimes.info or send us a message on [twitter.com/localtimes](http://twitter.com/localtimes) 
 
