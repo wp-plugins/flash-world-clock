@@ -13,7 +13,7 @@ World clock showing the local time at six major cities round the world. The plug
 * Analog or digital clocks
 * Three different group of world capitals
 * Horizontal or vertical clock format
-* Color selectoin for clock's text, border and background 
+* Color selection for clock's text, border and background 
 
 == Installation ==
 
