@@ -55,6 +55,9 @@ You can select the clock to be transparent, so the clock's background will be th
 = Is my city supported ? = 
 [localtimes.info](http://localtimes.info "Local Times round the world") has 100,000 cities in its database, but the three groups of capitals are the most popular at present.
 
+= Can I paste the clock directly into a page in a post, not on the sidebar ? =
+Yes, the javascript is available directly from  [localtimes.info/world](http://localtimes.info/getwidget/world/ "localtimes world clock"). You must paste your clock's javascript into the post in HTML mode.
+
 = Does world clock widget adjust for changing Daylight Saving Time? =
 Yes, the clock automatically changes for all Daylight Saving Time changes in the world, using the [localtimes.info](http://localtimes.info "Local Times round the world") database.
 
