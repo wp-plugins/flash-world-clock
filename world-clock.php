@@ -228,7 +228,7 @@ function world_clock_init()
 	      if($orientation_flag == 1) 
 		    $factor = 7;
 	      else
-		    $factor = 2.2;
+		    $factor = 2.3;
 	}
 	else{
 	      $widget_number += 100;	// analog
