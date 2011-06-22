@@ -27,10 +27,11 @@ World clock showing the local time at six major cities round the world. The plug
 
 == Screenshots ==
 
-1. Vertical Digital clocks
-2. Vertical Analog clocks
-3. Horizontal Analog clocks
-3. Horizontal Digital clocks
+1. Vertical Digital clocks (white background)
+2. Vertical Digital clocks (black background)
+3. Vertical Analog clocks
+4. Horizontal Analog clocks
+5. Horizontal Digital clocks
 
 == Changelog ==
 
