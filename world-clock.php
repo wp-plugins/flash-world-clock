@@ -223,10 +223,23 @@ function world_clock_init()
 	      $widget_number = 20000;
 
 	// analog/digital clocks 
-	if($type == 1)
+	if($type == 1){
 	      $widget_number += 1000;	// digital
-	else
+	      if($orientation_flag == 1) 
+		    $factor = 7;
+	      else
+		    $factor = 2.2;
+	}
+	else{
 	      $widget_number += 100;	// analog
+	      if($orientation_flag == 1) 
+		    $factor = 7.1;
+	      else
+		    $factor = 1.2;
+	 }
+
+
+
 
 	// capital group 
       	$widget_number += $capital_group_flag;
@@ -255,8 +268,9 @@ function world_clock_init()
 	//
 	//
 	//
-	
-	echo'<!--World Clock widget - HTML code - localtimes.info --><div align="center" style="margin:15px 0px 0px 0px;background:'.$background_color.' ;color:'.$text_color.'">' ;
+	echo '<br style="line-height:15px">';	
+	echo'<!--World Clock widget - HTML code - localtimes.info --><div style="margin:auto;align:center;text-align:center;background:'.$background_color.' ;';
+	echo 'color:'.$text_color.';width:'.($size*$factor).'px;padding:8px 8px">' ;
 
 	echo $noscript_start . '<div align="center" style="width:140px;border:1px solid #ccc;background:'.$background_color.' ;color:'.$text_color.' ;font-weight:bold">';
 	echo '<a style="padding:2px 1px;margin:2px 1px;font-size:13px;line-height:16px;font-family:arial;text-decoration:none;color:'.$text_color. ' ;" href="'.$target_url.'">';
