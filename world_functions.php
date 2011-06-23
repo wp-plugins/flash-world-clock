@@ -26,7 +26,7 @@ function print_worientation_list($orientation)
 // This function wprint for selector clock size list
 
 function print_wthesize_list($size){
-	 $size_list = array("50","75","100","150","180","200","250","300");
+	 $size_list = array("50","65","75","80","85","90","95","100","110","120","130","140","150","160","170","180","200","220","250","300");
 
 	 echo "\n";
 	foreach($size_list as $isize)
