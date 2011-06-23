@@ -4,7 +4,7 @@ Donate link: http://www.localtimes.info/
 Tags: world clock, world flash clock, world capital timezones, world time
 Tested up to: 3.1.3
 Requires at least: 1.5
-Stable tag: 1.0
+Stable tag: 1.0.1
 
 == Description ==
 
@@ -39,9 +39,9 @@ World clock showing the local time at six major cities round the world. The plug
 * Released 08/02/2010 
 * First release  includes two most popular analog and digital clocks 
 
-= 1.1 =
-* Released 12/07/2010 
-* Error correction
+= 1.0.1 =
+* Released 22/06/2011
+* Error corrections
 
 
 
