@@ -80,7 +80,7 @@ function world_clock_init()
       	$capital_group_flag = htmlspecialchars($options['capital_group'], ENT_QUOTES);
       	$orientation_flag = htmlspecialchars($options['orientation'], ENT_QUOTES);
 
-      	echo '<ul><li style="text-align:center;list-style: none;"><label for="clock-title">World Clock<br> by <a href="http://localtimes.info">localtimes.info</a></label></li>';
+      	echo '<ul><li style="text-align:center;list-style: none;"><label for="clock-title">World Clock by localtimes.info</label></li>';
 
 
       	// Set Clock size
