@@ -43,7 +43,7 @@ World clock showing the local time at six major cities round the world. The plug
 
 = 1.0.1 =
 * Released 22/06/2011
-* Corrections to html and css that affected alignment and title of plugin
+* Corrections to html and css that affected alignment, and size of the background square
 
 
 == Frequently Asked Questions ==
