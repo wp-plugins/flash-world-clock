@@ -22,8 +22,9 @@ World clock showing the local time at six major cities round the world. The plug
 3. Go to Plugins > Plugins, and activate the plugin,
 4. Go to Appearance > Widgets, and drag the widget to a sidebar,
 5. On the widget selection panel, select clock type, clock orientation, world capital sets, clock colors and size
-6. Email problems to widgets at localtimes.info
-7. Please rate our plugin!
+6. Email problems to widgets at localtimes.info, we appreciate your input into improving the plugin
+7. If you find the widget useful, please take the time to rate our plugin. Thank you.
+
 
 == Screenshots ==
 
@@ -42,20 +43,13 @@ World clock showing the local time at six major cities round the world. The plug
 
 = 1.0.1 =
 * Released 22/06/2011
-* Error corrections
-
+* Corrections to html and css that affected alignment and title of plugin
 
 
 == Frequently Asked Questions ==
 
 = How do I customize the colours? =
 Go to the Appearance->Widgets tab in your wordpress admin panel, and choose click on settings for the local time clock, select text, border and background colors from the drop downs
-
-= Can I choose my colour? =
-You can select the clock to be transparent, so the clock's background will be that of your web page
-
-= Is my city supported ? = 
-[localtimes.info](http://localtimes.info "Local Times round the world") has 100,000 cities in its database, but the three groups of capitals are the most popular at present.
 
 = Can I paste the clock directly into a page in a post, not on the sidebar ? =
 Yes, the javascript is available directly from  [localtimes.info/world](http://localtimes.info/getwidget/world/ "localtimes world clock"). You must paste your clock's javascript into the post in HTML mode.
