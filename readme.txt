@@ -30,7 +30,7 @@ World clock showing the local time at six major cities round the world. The plug
 
 1. Vertical Digital clocks (white background)
 2. Vertical Digital clocks (black background)
-3. Vertical Analog clocks
+3. Vertical Analog clocks (navy blue background, yellow text)
 4. Horizontal Analog clocks
 5. Horizontal Digital clocks (white)
 6. Horizontal Digital clocks (navy blue)
