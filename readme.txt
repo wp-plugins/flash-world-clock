@@ -11,9 +11,11 @@ Stable tag: 1.0.1
 World clock showing the local time at six major cities round the world. The plugin provides a choice of analog and digital clocks, colors and sizes.
 
 * Analog or digital clocks
-* Three different group of world capitals
+* Three different groups of world capitals
 * Horizontal or vertical clock format
 * Color selection for clock's text, border and background 
+* Automatic adjustment of daylight saving time from the [localtimes.info](http://localtimes.info "Local Times round the world") servers
+See example world clocks here [localtimes.info/world-clock](http://localtimes.info/getwidget/world/ "World Clock Widgets")
 
 == Installation ==
 
