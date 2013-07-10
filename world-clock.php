@@ -29,7 +29,7 @@ function world_clock_init()
 		{
 			$options_flag=1;
 			$newoptions = array(
-				'title'=>'World Time',
+				'title'=>'World Clock',
 				'titleflag'=>'0', 
 				'transparentflag'=>'0', 
 				'ampmflag'=>'1', 
@@ -154,7 +154,7 @@ function world_clock_init()
       	echo '<input id="world-clock-submit" name="world-clock-submit" type="hidden" value="Ok" />';
       	echo '</label>';
 
-		$title ="World Time";
+		$title ="World Clock";
 
         echo '<label for="world-clock-title"> <input type="hidden" id="world-clock-title" name="world-clock-title" value="'.$title.'" /> </label>';
 
@@ -256,7 +256,7 @@ function world_clock_init()
 			$noscript_end = "</noscript>";
 		}
 
-		$target_url = "http://localtimes.info/";
+		$target_url = "http://localtimes.info/difference/";
 
 		//
 		//
