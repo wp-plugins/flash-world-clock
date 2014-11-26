@@ -2,7 +2,7 @@
 Contributors: enclick
 Donate link: http://www.localtimes.info/
 Tags: world clock, world flash clock, world capital timezones, world time
-Tested up to: 4.0
+Tested up to: 4.0.1
 Requires at least: 2.8
 Stable tag: 1.0.1
 
